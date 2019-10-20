@@ -1,0 +1,16 @@
+1db6d9e3dba48490461298357185d3fd *DESCRIPTION
+5f85e8977bf7bbfa784478c1088fa0cc *NAMESPACE
+b9db2eaad24d875b3c0dd253bd26cf39 *NEWS.md
+1d417222fb63e57c5847ae758271aef0 *R/db_fcts.R
+66b4f76e96da6f9db374ef2533a6102d *R/fcts.R
+3d2082e87d0a6c89d2e26e4e308294ef *R/utils.R
+8944f180c565f966422d806c47cbf72d *README.md
+3b0d8c06ca7ee7c7717d83ad8f3c8ab3 *build/vignette.rds
+5fc38b9b62773d74d553981f378d8ea3 *inst/doc/getquandldata-vignette-introduction.R
+cf7daa38bf898083db1e44cb119760db *inst/doc/getquandldata-vignette-introduction.Rmd
+ea101a9192ecffb3b2a687017bc8bc51 *inst/doc/getquandldata-vignette-introduction.html
+db429445094c1b86daa4985d5775be39 *man/get_Quandl_series.Rd
+5e1c7a95ba4006e44e9593b996dbbd67 *man/get_database_info.Rd
+54f37302d7d3d337ffde6a788f1ba716 *man/get_single_Quandl.Rd
+f8c25cf31b4ef4bd05f71b75a881d7fb *man/json_to_tibble.Rd
+cf7daa38bf898083db1e44cb119760db *vignettes/getquandldata-vignette-introduction.Rmd
